@@ -1,0 +1,26 @@
+{
+  "module": "llm-key-pool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "pool": {
+      "enabled": true
+    },
+    "proxy": {
+      "enabled": true
+    },
+    "cooldowns": {
+      "enabled": true
+    },
+    "providers": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
