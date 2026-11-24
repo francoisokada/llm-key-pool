@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: llm-key-pool, rotation, free-tier, openai, anthropic, gemini, groq, llm, api, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+llm api rotation free-tier openai anthropic gemini groq key-pool-rotator llm-key-pool llm-key-rotator windows portable prebuilt x64 free download
+related: llm, api, rotation, free-tier, openai, anthropic, gemini, groq
